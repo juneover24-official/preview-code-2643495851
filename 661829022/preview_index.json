@@ -1,7 +1,7 @@
 {
   "qq_number": "2643495851",
   "group_number": "661829022",
-  "updated_at": "2026-06-01T08:42:05+00:00",
+  "updated_at": "2026-06-01T09:19:54+00:00",
   "skins": [
     {
       "name": "クレイモア",
@@ -20,6 +20,12 @@
       "file": "4ngel_04一.bdi",
       "thumb": "4ngel_04一.bdi_py_26_light_thumb.png",
       "full": "4ngel_04一.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "攻殼機動隊",
+      "file": "攻殼機動隊.bdi",
+      "thumb": "攻殼機動隊.bdi_py_26_light_thumb.png",
+      "full": "攻殼機動隊.bdi_py_26_light_thumb.png"
     }
   ]
 }
