@@ -1,13 +1,19 @@
 {
   "qq_number": "2643495851",
   "group_number": "1094555649",
-  "updated_at": "2026-04-23T15:52:38.901566",
+  "updated_at": "2026-06-01T08:34:18+00:00",
   "skins": [
     {
       "name": "クレイモア",
       "file": "クレイモア.bds",
       "thumb": "クレイモア.bds_py_26_default_thumb.png",
       "full": "クレイモア.bds_py_26_default.png"
+    },
+    {
+      "name": "4ngel_04",
+      "file": "4ngel_04一.bds",
+      "thumb": "4ngel_04一.bds_py_26_light_thumb.png",
+      "full": "4ngel_04一.bds_py_26_light_thumb.png"
     }
   ]
 }
